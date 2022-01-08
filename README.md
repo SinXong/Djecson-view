@@ -3,4 +3,4 @@
 
 Development code - https://github.com/SinXong/Djecson
 
-Адаптив в разработке
+Адаптив до разрешения 1500px
